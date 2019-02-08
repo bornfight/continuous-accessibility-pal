@@ -1,5 +1,5 @@
 {
-  "name": "cap",
+  "name": "continuous-accessibility-pal",
   "version": "1.0.0",
   "description": "Accessibility CI",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/degordian/QRP.git"
+    "url": "git+https://github.com/degordian/continuous-accessibility-pal.git"
   },
   "keywords": [
     "accessibility"
   ],
   "author": "Vanja Žunić, Marko Kruljac",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/degordian/cap/issues"
+    "url": "https://github.com/degordian/continuous-accessibility-pal/issues"
   },
-  "homepage": "https://github.com/degordian/cap#readme",
+  "homepage": "https://github.com/degordian/continuous-accessibility-pal#readme",
   "dependencies": {
     "pa11y": "^5.1.0",
     "pa11y-reporter-html": "^1.0.0"
