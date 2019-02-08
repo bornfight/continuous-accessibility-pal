@@ -4,7 +4,7 @@
   "description": "Accessibility CI",
   "main": "index.js",
   "scripts": {
-    "test": "pa11y $WEBSITE_UNDER_TEST -c pa11y_config.js > reports/pa11y/index.html"
+    "test": "pa11y $WEBSITE_UNDER_TEST -c pa11y_config.js > reports/index.html"
   },
   "repository": {
     "type": "git",
