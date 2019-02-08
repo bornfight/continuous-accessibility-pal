@@ -1,0 +1,26 @@
+{
+  "name": "cap",
+  "version": "1.0.0",
+  "description": "Accessibility CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "pa11y $WEBSITE_UNDER_TEST -c pa11y_config.js > reports/pa11y/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degordian/QRP.git"
+  },
+  "keywords": [
+    "accessibility"
+  ],
+  "author": "Vanja Žunić, Marko Kruljac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/degordian/cap/issues"
+  },
+  "homepage": "https://github.com/degordian/cap#readme",
+  "dependencies": {
+    "pa11y": "^5.1.0",
+    "pa11y-reporter-html": "^1.0.0"
+  }
+}

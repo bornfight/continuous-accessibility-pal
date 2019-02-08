@@ -1,0 +1,8 @@
+# Ignore all
+*
+
+# Except gitkeep (keeps folder in git for future pulls)
+!.gitkeep
+
+# Except gitignore (so other people ignore these folders as well)
+!.gitignore
