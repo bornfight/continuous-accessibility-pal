@@ -33,11 +33,13 @@ Choose from WCAG2A / WCAG2AA / WCAG2AAA.
 * COOKIE
 
 Authentication cookie for website under test
+
 *optional field
 * AUTHORIZATION
 
 Auth string value (e.g. in case of Basic auth)
-*aslo optional field
+
+*also optional field
 
 ## Let's make web accessibile! :cyclone:
 
